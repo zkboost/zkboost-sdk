@@ -1,14 +1,14 @@
 {
-  "name": "@uniswap/v2-sdk",
+  "name": "@zkboost/sdk",
   "license": "MIT",
-  "version": "3.0.1",
-  "description": "🛠 An SDK for building applications on top of Uniswap V2",
+  "version": "1.0.0",
+  "description": "🛠 An SDK for building applications on top of zkBoost",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-v2-sdk.git",
+  "repository": "https://github.com/zkboost/zkboost-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"
@@ -41,5 +41,6 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "author": "zkboost <contact@zkboost.finance>"
 }
